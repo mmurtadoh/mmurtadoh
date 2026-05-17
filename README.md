@@ -40,7 +40,7 @@
 
 ## 🎓 Education & Certifications
 
-- 🎓 B.ASc. Information Technology — BYU-Pathway Idaho *(In Progress)*
+- 🎓 B.ASc. Information Technology — Ensign College *(In Progress)*
 - 🎓 B.Sc. Psychology — Lagos State University *(In Progress)*
 - ✅ Network Technician Career Path — Cisco
 - ✅ Hybrid Server Pro: Core — TestOut
