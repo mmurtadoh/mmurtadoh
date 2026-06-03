@@ -12,6 +12,7 @@
 
 <br>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mubarak--murtadoh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mubarak-murtadoh)
 
 [![Email](https://img.shields.io/badge/Email-mubarakolodan%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mubarakolodan@gmail.com)
@@ -20,25 +21,16 @@
 
 ---
 
-## ✨ Professional Snapshot
+## Professional Snapshot
 
 Aspiring IT Professional with hands-on experience in **Technical Support, Systems Administration, Cloud Infrastructure, Networking, Automation, and Data Entry**.
 
 I build practical solutions using **Windows Server, Active Directory, Azure, Cisco Networking, Python, and PowerShell**, with a strong focus on troubleshooting, efficiency, and business support.
 
+My background in Psychology strengthens my communication, problem-solving, and user support skills, enabling me to effectively assist end users and work across diverse teams
+
 📍 Lagos, Nigeria
 🌍 Open to Remote Opportunities
-
----
-
-
-### 🔗 View Completed Project Portfolio
-
-<a href="https://mmurtadoh.github.io">
-<img src="https://img.shields.io/badge/Visit_Portfolio-0F6FBF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -83,13 +75,8 @@ I build practical solutions using **Windows Server, Active Directory, Azure, Cis
 
 <div align="center">
 
----
-
-<div align="center">
 
 ### 🚀 Ready to See More?
-
-You've seen a snapshot of my experience in IT Support, Systems Administration, Cloud Infrastructure, Networking, and Automation.
 
 Explore my complete portfolio for detailed project walkthroughs, technical documentation, and hands-on lab implementations.
 
