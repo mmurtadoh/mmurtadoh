@@ -1,118 +1,71 @@
-<div align="center">
+## ✨ Professional Snapshot
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=200&section=header&text=Mubarak%20Murtadoh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20%7C%20Systems%20Administration%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=16" width="100%"/>
+Aspiring IT Professional with hands-on experience in **Technical Support, Systems Administration, Cloud Infrastructure, Networking, Automation, and Data Entry**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=0F6FBF\&center=true\&vCenter=true\&width=500\&lines=Technical+Support+Engineer;Systems+Administrator;Cloud+Infrastructure+Learner;Python+Automation+Builder)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0F6FBF?style=for-the-badge)](https://mmurtadoh.github.io)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubarak--murtadoh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mubarak-murtadoh)
-
-[![Email](https://img.shields.io/badge/Email-mubarakolodan%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mubarakolodan@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an aspiring IT professional with hands-on experience in technical support, system administration, networking, and cloud infrastructure.
-
-My practical projects include deploying Windows Server environments, configuring Active Directory, building Cisco network topologies, provisioning Azure virtual machines, and creating automation solutions with Python.
+I build practical solutions using **Windows Server, Active Directory, Azure, Cisco Networking, Python, and PowerShell**, with a strong focus on troubleshooting, efficiency, and business support.
 
 📍 Lagos, Nigeria
 🌍 Open to Remote Opportunities
 
----
+> **Want to see how I apply these skills in real-world projects? Visit my portfolio below.**
 
-## 🛠️ Core Skills
+### 🌐 Portfolio
 
-**Systems Administration**
-
-* Windows Server 2022
-* Active Directory
-* Group Policy (GPO)
-* Hyper-V
-* DNS & DHCP
-
-**Cloud & Virtualization**
-
-* Microsoft Azure
-* Virtual Machines
-* Remote Desktop Services
-
-**Networking**
-
-* TCP/IP
-* VLANs
-* Routing & Switching
-* Cisco Packet Tracer
-
-**Automation & Scripting**
-
-* Python
-* PowerShell
-* Bash
-* REST APIs
+🔗 [**https://mmurtadoh.github.io**](https://mmurtadoh.github.io)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### ☁️ Cloud Server Deployment — Microsoft Azure
+### ☁️ Azure Cloud Server Deployment
 
-Provisioned and configured a Windows Server virtual machine in Azure with secure remote administration and network security controls.
-
-🔗 https://github.com/mmurtadoh/cloud-server-azure-lab
-
----
+Deployed and secured a Windows Server virtual machine in Microsoft Azure with remote administration and network security configurations.
 
 ### 🖥️ Windows Server Enterprise Lab
 
-Built a complete enterprise environment featuring Active Directory, DNS, DHCP, Group Policy, Hyper-V, and PowerShell automation.
+Built an enterprise environment featuring Active Directory, DNS, DHCP, Group Policy, Hyper-V, and PowerShell automation.
 
-🔗 https://github.com/mmurtadoh/windows-server-enterprise-lab
+### 🌐 Cisco Multi-Site Network Design
 
----
+Designed a scalable three-site network with VLAN segmentation, routing, and security implementation.
 
-### 🌐 Multi-Site Cisco Network Design
-
-Designed and implemented a three-site enterprise network with VLAN segmentation, routing, and security controls.
-
-🔗 https://github.com/mmurtadoh/cisco-network-capstone
+➡️ **Full project documentation and walkthroughs are available on my portfolio.**
 
 ---
 
-## 🎓 Education
+## 🛠️ Core Technologies
 
-**B.A.Sc. Information Technology**
-Ensign College (BYU-Pathway) — In Progress
+**Systems Administration**
+Windows Server • Active Directory • Group Policy • DNS • DHCP
 
-**B.Sc. Psychology**
-Lagos State University — In Progress
+**Cloud & Virtualization**
+Microsoft Azure • Virtual Machines • Remote Administration
 
----
+**Networking**
+TCP/IP • VLANs • Routing & Switching • Cisco Packet Tracer
 
-## 📜 Certifications
+**Automation**
+Python • PowerShell • Bash
 
-* Technical Support Engineer Certificate — Ensign College
-* Network Technician Career Path — Cisco
-* Hybrid Server Pro: Core — TestOut
-* Windows Server 2022: Active Directory — LinkedIn Learning
-* Windows 11 Essential Training — LinkedIn Learning
-* CompTIA A+ (In Progress)
+**Business Support**
+Technical Support • Data Entry • Documentation • Troubleshooting
 
 ---
 
-<div align="center">
+## 🎓 Education & Certifications
 
-### 🌐 Explore My Complete Portfolio
+**B.A.Sc. Information Technology** — Ensign College *(In Progress)*
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-0F6FBF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://mmurtadoh.github.io)
+**Technical Support Engineer Certificate** — Ensign College
 
-</div>
+**Cisco Network Technician Career Path** — Cisco
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer" width="100%"/>
+**Hybrid Server Pro: Core** — TestOut
 
+**CompTIA A+** *(In Progress)*
+
+---
+
+### Interested in My Projects?
+
+Building practical IT solutions through support, infrastructure, networking, automation, and cloud technologies.
