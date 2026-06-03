@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-0F6FBF?style=for-the-badge&labelColor=0F4C81"/>
 </a>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mubarak--murtadoh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mubarak-murtadoh)
 
@@ -31,23 +31,8 @@ I build practical solutions using **Windows Server, Active Directory, Azure, Cis
 
 ---
 
-## 🚀 Featured Work
 
-### ☁️ Azure Cloud Server Deployment
-
-Deployed and secured a Windows Server virtual machine in Microsoft Azure with remote administration and network security configurations.
-
-### 🖥️ Windows Server Enterprise Lab
-
-Built an enterprise environment featuring Active Directory, DNS, DHCP, Group Policy, Hyper-V, and PowerShell automation.
-
-### 🌐 Cisco Multi-Site Network Design
-
-Designed a scalable three-site network with VLAN segmentation, routing, and security implementation.
-
-<div align="center">
-
-### 🔗 View Complete Project Portfolio
+### 🔗 View Completed Project Portfolio
 
 <a href="https://mmurtadoh.github.io">
 <img src="https://img.shields.io/badge/Visit_Portfolio-0F6FBF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -122,6 +107,3 @@ Building practical IT solutions through support, infrastructure, networking, aut
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer"/>
-
-</div>
