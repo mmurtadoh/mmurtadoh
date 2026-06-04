@@ -21,6 +21,8 @@
 
 ---
 
+<div align="center">
+  
 ## Professional Snapshot
 
 Aspiring IT Professional with hands-on experience in **Technical Support, Systems Administration, Cloud Infrastructure, Networking, Automation, and Data Entry**.
