@@ -29,47 +29,10 @@ I build practical solutions using **Windows Server, Active Directory, Azure, Cis
 
 My background in Psychology strengthens my communication, problem-solving, and user support skills, enabling me to effectively assist end users and work across diverse teams
 
-📍 Lagos, Nigeria
-🌍 Open to Remote Opportunities
+<div align="center">
 
----
+📍 Lagos, Nigeria || 🌍 Open to Remote Opportunities
 
-## 🛠️ Core Technologies
-
-### Systems Administration
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square\&logo=windows\&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
-![Group Policy](https://img.shields.io/badge/GPO-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
-
-### Cloud & Virtualization
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
-
-### Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-1BA0D7?style=flat-square)
-
-### Automation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **B.A.Sc. Information Technology** — Ensign College *(In Progress)*
-
-✅ Technical Support Engineer Certificate — Ensign College
-
-✅ Cisco Network Technician Career Path — Cisco
-
-✅ Hybrid Server Pro: Core — TestOut
-
-⏳ CompTIA A+ *(In Progress)*
 
 ---
 
